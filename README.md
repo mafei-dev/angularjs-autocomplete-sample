@@ -1,1 +1,1 @@
-# angularjs-autocomplete-sample
+ref https://github.com/ghiden/angucomplete-alt
